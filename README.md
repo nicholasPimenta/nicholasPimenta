@@ -1,6 +1,6 @@
 ## 🔋 Nicholas Pimenta
 
-Desenvolvedor Front-End em busca de seu primeiro trabalho na área. Natural de Rio de Janeiro, tenho 23 anos e tenho estudado Programação desde 2022 para trabalhar no mercado de trabalho.
+Desenvolvedor Front-End em busca de seu primeiro trabalho na área. Natural de Rio de Janeiro, tenho 23 anos e tenho estudado Programação desde 2022, retornando recentemente para entrar no mercado de trabalho.
 
    <p align="left"> 
       <a href="https://github.com/nicholasPimenta?tab=followers">
