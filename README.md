@@ -20,8 +20,8 @@ Desenvolvedor Front-End em busca de seu primeiro trabalho na área. Natural de R
 ## 📊 Estatisticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasPimenta&show_icons=true&theme=radical&locale=pt-br" alt="Nicholas Pimenta's Github Stats" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasPimenta&theme=radical&locale=pt-br" alt="Nicholas Pimenta's Main Languages" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicholasPimenta&show_icons=true&theme=radical&locale=pt-br" alt="Nicholas Pimenta's Github Stats" height="180em" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasPimenta&theme=radical&locale=pt-br&layout=compact" alt="Nicholas Pimenta's Main Languages" height="180em" width="48%">
 </p>
 
 ---
