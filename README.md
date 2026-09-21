@@ -31,7 +31,7 @@ Estou em busca da minha primeira oportunidade profissional na área de desenvolv
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
 | [Portfólio](https://github.com/nicholasPimenta/portfolio) | Portfólio pessoal com projetos, trajetória profissional, currículo online e área de contato. | React, TypeScript, Vite, Tailwind CSS e Accessibility |
-| [Weather 2.0](https://github.com/nicholasPimenta/weather-2.0) | Aplicação meteorológica com previsão para quatro dias, cenários dinâmicos e chave de API protegida por uma função serverless. | React, TypeScript, OpenWeather API, Serverless e Vercel Functions |
+| [Weather 2.0](https://github.com/nicholasPimenta/weather-2.0) | Aplicação meteorológica com previsão para quatro dias, cenários dinâmicos e chave de API protegida por uma função serverless. | React, TypeScript, OpenWeather API, Weather App, Serverless e Vercel Functions |
 | [Formulário para Impressão](https://github.com/nicholasPimenta/clinica-dashboard) | Interface para preenchimento de informações clínicas e preparação de documentos A4 para impressão. | React, TypeScript, Tailwind CSS, shadcn/ui, Form Validation e Print CSS |
 | [Lenovo GM2 PRO](https://github.com/nicholasPimenta/lenovo-gm2-pro) | Landing page conceitual de produto com design responsivo e seleção interativa de cores. | React, TypeScript, Vite e CSS Modules, Product Page e Responsive Design |
 
