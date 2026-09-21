@@ -1,110 +1,77 @@
-## 🔋 Nicholas Pimenta
-
-Desenvolvedor Front-End em busca de seu primeiro trabalho na área. Natural de Rio de Janeiro, tenho 23 anos e tenho estudado Programação desde 2022, retornando recentemente para entrar no mercado de trabalho.
-
-   <p align="left"> 
-      <a href="https://github.com/nicholasPimenta?tab=followers">
-         <img 
-          alt="Seguidores" 
-          title="Me Siga no Github" 
-          src="https://custom-icon-badges.demolab.com/github/followers/nicholasPimenta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-         </a>
-      <a href="https://github.com/nicholasPimenta?tab=repositories&sort=stargazers">
-         <img 
-          alt="total stars" 
-          title="Total stars on GitHub" 
-          src="https://custom-icon-badges.demolab.com/github/stars/nicholasPimenta?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-         </a>
-   </p>
-
-## 📊 Estatisticas
+<h1 align="center">Olá, eu sou Nicholas Pimenta</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicholasPimenta&show_icons=true&theme=radical&locale=pt-br" alt="Nicholas Pimenta's Github Stats" height="180em" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasPimenta&theme=radical&locale=pt-br&layout=compact" alt="Nicholas Pimenta's Main Languages" height="180em" width="48%">
+  Desenvolvedor Front-end focado na criação de interfaces responsivas, acessíveis e bem estruturadas.
 </p>
 
----
+<p align="center">
+  <a href="https://portfolio-nicholas-pimentas-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar portfólio">
+  </a>
+  <a href="https://www.linkedin.com/in/nicholas-pimenta/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar LinkedIn">
+  </a>
+  <a href="https://portfolio-nicholas-pimentas-projects.vercel.app/curriculo">
+    <img src="https://img.shields.io/badge/Currículo-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Visualizar currículo">
+  </a>
+</p>
 
-## Tecnologias que eu uso
+## Sobre mim
 
-<div style="inline-block">
+Sou desenvolvedor Front-end do Rio de Janeiro e estudo desenvolvimento de software desde 2022.
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-<img
-    align="left"
-    alt="Javascript"
-    title="Javascript"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    />
-<img
-    align="left"
-    alt="Typescript"
-    title="Typescript"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    />
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    />
-<img
-    align="left"
-    alt="React Vite"
-    title="React Vite"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
-    />
-<img
-    align="left"
-    alt="Next"
-    title="Next"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-    />
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />
-<img
-    align="left"
-    alt="Github"
-    title="Github"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    />
-<img
-    align="left"
-    alt="Bootstrap"
-    title="Bootstrap"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-    />
-<img
-    align="left"
-    alt="Tailwindcss"
-    title="Tailwindcss"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-    />
-</div>
+Atualmente, concentro meus estudos e projetos em **React** e **TypeScript**, buscando transformar requisitos em interfaces funcionais, responsivas e acessíveis.
+
+Tenho interesse especial por componentização, organização de código, integração com APIs e construção de experiências que funcionem bem em diferentes dispositivos.
+
+Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento Front-end.
+
+## Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+| --- | --- | --- |
+| [Portfólio](https://github.com/nicholasPimenta/portfolio) | Portfólio pessoal com projetos, trajetória profissional, currículo online e área de contato. | React, TypeScript, Vite e Tailwind CSS |
+| [Weather 2.0](https://github.com/nicholasPimenta/weather-2.0) | Aplicação meteorológica com previsão para quatro dias, cenários dinâmicos e chave de API protegida por uma função serverless. | React, TypeScript, OpenWeather API e Vercel Functions |
+| [Formulário para Impressão](https://github.com/nicholasPimenta/clinica-dashboard) | Interface para preenchimento de informações clínicas e preparação de documentos A4 para impressão. | React, TypeScript, Tailwind CSS e shadcn/ui |
+| [Lenovo GM2 PRO](https://github.com/nicholasPimenta/lenovo-gm2-pro) | Landing page conceitual de produto com design responsivo e seleção interativa de cores. | React, TypeScript, Vite e CSS Modules |
+
+Cada repositório possui documentação sobre funcionalidades, arquitetura, decisões técnicas, acessibilidade e execução local.
+
+## Tecnologias e ferramentas
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Desenvolvimento e publicação
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+## O que você encontrará nos meus projetos
+
+- Interfaces responsivas para diferentes tamanhos de tela;
+- Componentes reutilizáveis e responsabilidades bem separadas;
+- Integração e tratamento de dados de APIs;
+- Estados de carregamento, validação e mensagens de erro;
+- HTML semântico e navegação por teclado;
+- Cuidados com acessibilidade e preferência por movimento reduzido;
+- Documentação das decisões técnicas;
+- Projetos publicados e disponíveis para demonstração.
+
+## Contato
+
+Você pode conhecer melhor meu trabalho pelo meu [portfólio](https://portfolio-nicholas-pimentas-projects.vercel.app/) ou entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/nicholas-pimenta/).
+
+<p align="center">
+  Obrigado pela visita!
+</p>
