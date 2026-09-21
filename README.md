@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Nicholas Pimenta</h1>
 
 <p align="center">
-  Desenvolvedor Front-end focado na criação de interfaces responsivas, acessíveis e bem estruturadas.
+  Desenvolvedor Front-End focado na criação de interfaces responsivas, acessíveis e bem estruturadas.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor Front-end do Rio de Janeiro e estudo desenvolvimento de software desde 2022.
+Sou desenvolvedor Front-End do Rio de Janeiro e estudo desenvolvimento de software desde 2022.
 
 Atualmente, concentro meus estudos e projetos em **React** e **TypeScript**, buscando transformar requisitos em interfaces funcionais, responsivas e acessíveis.
 
