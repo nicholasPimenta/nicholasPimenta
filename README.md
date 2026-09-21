@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nicholas-pimentas-projects.vercel.app/">
+  <a href="https://nicholas-pimenta-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Acessar portfólio">
   </a>
   <a href="https://www.linkedin.com/in/nicholas-pimenta/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar LinkedIn">
   </a>
-  <a href="https://portfolio-nicholas-pimentas-projects.vercel.app/curriculo">
+  <a href="https://nicholas-pimenta-portfolio.vercel.app/curriculo">
     <img src="https://img.shields.io/badge/Currículo-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Visualizar currículo">
   </a>
 </p>
@@ -47,7 +47,6 @@ Cada repositório possui documentação sobre funcionalidades, arquitetura, deci
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Desenvolvimento e publicação
 
@@ -70,7 +69,7 @@ Cada repositório possui documentação sobre funcionalidades, arquitetura, deci
 
 ## Contato
 
-Você pode conhecer melhor meu trabalho pelo meu [portfólio](https://portfolio-nicholas-pimentas-projects.vercel.app/) ou entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/nicholas-pimenta/).
+Você pode conhecer melhor meu trabalho pelo meu [portfólio](https://nicholas-pimenta-portfolio.vercel.app/) ou entrar em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/nicholas-pimenta/).
 
 <p align="center">
   Obrigado pela visita!
